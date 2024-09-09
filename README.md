@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adi
 ===========================================================================================================================
 
-Software Engineer
+Digital Craftsman (Developer/Solutions Architect)
 -----------------
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Languages and tools I use
 
@@ -75,9 +77,9 @@ Software Engineer
 
 <a href="http://www.github.com/adi-dev-404"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adi-dev-404&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/adi-dev-404"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=adi-dev-404&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/adi-dev-404" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-dev-404&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 <b>Top Repositories</b>
 
